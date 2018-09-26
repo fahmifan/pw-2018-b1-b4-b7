@@ -1,0 +1,9 @@
+[submodule "b7"]
+	path = b7-argil
+	url = https://github.com/arifrgilang/projek-pw.git
+[submodule "b4-benhard"]
+	path = b4-benhard
+	url = https://github.com/benhard123/Project-Praktikum-PWEB.git
+[submodule "b7-noval"]
+	path = b7-noval
+	url = https://github.com/novalb12/pemweb.git
