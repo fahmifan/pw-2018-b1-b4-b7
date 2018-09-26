@@ -1,5 +1,5 @@
 [submodule "b7"]
-	path = b7-argil
+	path = b1-argil
 	url = https://github.com/arifrgilang/projek-pw.git
 [submodule "b4-benhard"]
 	path = b4-benhard
